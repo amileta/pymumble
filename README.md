@@ -1,6 +1,11 @@
 PYMUMBLE python library
 =======================
 
+STOP! You're probably looking for [azlux's pymumble](https://github.com/azlux/pymumble)
+------------------------------------------------------------------------------
+
+The **pymumble** that is most maintained is azlux's fork. This fork is just for some experimenting. I might consider contributing back if I find this useful for my projects.
+
 Description
 -----------
 
